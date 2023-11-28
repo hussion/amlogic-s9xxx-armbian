@@ -206,7 +206,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - hussion
 
 env:
   TZ: America/New_York
